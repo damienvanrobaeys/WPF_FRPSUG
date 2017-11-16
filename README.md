@@ -12,4 +12,5 @@ Vous retrouverez ici tous les exemples mentionnés au cours de la présentation
 3 / Dossier 3_Mahapps_Upgrader: Contient le tool MahApps upgrader
 
 
-
+Vous pouvez retrouver l'interface Windows 10 en WPF ici: https://github.com/damienvanrobaeys/Windows10_Design_WPF
+Je suis en train de travailler dessus, et d'ajouter exactement les mêmes parties que l'interface de base Windows 10.
