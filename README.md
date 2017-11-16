@@ -1,6 +1,6 @@
 # Comment créer des GUI PowerShell "Metro" - FRPSUG 15/11/2017
-<br>
-<br>
+![alt text](http://3.bp.blogspot.com/-VeuSveGhBEs/WcTJubR3J-I/AAAAAAAAGjc/RDcrNGblEpEkJC1CrIhCmrD9eMytQLScgCK4BGAYYCw/s1600/global_458204815.jpeg)
+
 Vous retrouverez ici tous les exemples mentionnés au cours de la présentation 
 
 1 / Dossier 1_GUI_to_Update: Contient les différentes GUI présentées
